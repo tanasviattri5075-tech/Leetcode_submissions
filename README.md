@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tanasviattri5075-tech/Leetcode_submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanasviattri5075-tech/Leetcode_submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/tanasviattri5075-tech/Leetcode_submissions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/tanasviattri5075-tech/Leetcode_submissions/tree/master/0217-contains-duplicate) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tanasviattri5075-tech/Leetcode_submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/tanasviattri5075-tech/Leetcode_submissions/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
