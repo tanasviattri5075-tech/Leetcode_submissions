@@ -1,5 +1,8 @@
 class Solution {
     public int[] intersect(int[] nums1, int[] nums2) {
+        if (nums1.length > nums2.length) {
+            return intersect(nums2, nums1);
+        }
        Map<Integer , Integer> map = new HashMap<>();
 
        for (int num : nums1) {
@@ -19,7 +22,7 @@ class Solution {
             k = k + 1;
             map.put(num, count - 1);
         }
-       }
+       };
 
        return Arrays.copyOfRange(res, 0 ,k);
     }
